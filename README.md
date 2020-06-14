@@ -7,7 +7,7 @@
 
 In Sensory Con-Fusion, data streams from different modalities disturb and irritate each other, causing a synaesthetic nightmare. The project aims to challenge the predominant technological purpose of improvement and optimization. It invites debate about related topics like information overflow, autism and neural multisensory integration.
 
-In this sketch, audio disturbs video: ** to see, you have to be quiet**.
+In this sketch, audio disturbs video: **to see, you must be quiet**.
 
 Written in Processing 3 [https://processing.org/](https://processing.org/). Libraries: P5 Audio and P5 Video. 
 
