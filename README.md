@@ -7,7 +7,7 @@
 
 In Sensory Con-Fusion, data streams from different modalities disturb and irritate each other, causing a synaesthetic nightmare. The project aims to challenge the predominant technological purpose of improvement and optimization. It invites debate about related topics like information overflow, autism and neural multisensory integration.
 
-In this sketch, audio disturbs video: **to see, you must be quiet**.
+In this sketch, audio disturbs video: **to see, be quiet**.
 
 Written in Processing 3 [https://processing.org/](https://processing.org/). Libraries: P5 Audio and P5 Video. 
 
@@ -17,10 +17,10 @@ This was presented during ["Multisensory Aesthetics"](https://bureaudoove.com/20
 
 I am also working on a VR version.
 
-To run, copy the sketch folder into your Processing sketchbook. You might have to install libraries from the Processing GUI (`Sketch -> Import Library -> Add Library`).
+To run, download the ZIP file, unpack and rename the folder to `p5_sensory_con_fusion`. Copy this folder into your Processing sketch folder. You might have to install the P5 Video and P5 Audio libraries from the Processing GUI (`Sketch -> Import Library -> Add Library`).
 
 Read the comments in the sketch files for details and current issues.
-
-Update (2020)
-Processing is broken on Mac computers with Mac OSX Catalina. For a workaround to run this sketch in Processing 3.5.4 see:
+ 
+#### Update (2020) 
+Processing is broken on Mac computers with Mac OSX 10.5 Catalina. For a workaround and to run this sketch with Processing 3.5.4 see:
 https://gist.github.com/i3games/b063987dfb62baf5d0afda422631b480
