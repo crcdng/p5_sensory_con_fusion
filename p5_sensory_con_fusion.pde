@@ -48,13 +48,14 @@ void setup() {
   // Sound s = new Sound(this);
   // Sound.list();
   // s.inputDevice(0); // replace 0 by the number of your microphone
-  
-  // Video library 2.0-beta-4, Mac OSX 15 Catilina
-  String[] cameras = Capture.list();
-  video = new Capture(this, width, height, cameras[0]);
 
   // Video library 1.0.1 
-  video = new Capture(this, width, height);
+  // video = new Capture(this, width, height);
+  
+  // Video library 2.0-beta-4, macOS Big Sur
+  String[] cameras = Capture.list();
+  // print(cameras);
+  video = new Capture(this, width, height, cameras[1]);
 
   video.start();   
   videoWidth = video.width;

@@ -24,3 +24,6 @@ Read the comments in the sketch files for details and current issues.
 #### Update (2020) 
 Processing is broken on Mac computers with Mac OSX 10.5 Catalina. For a workaround and to run this sketch with Processing 3.5.4 see:
 https://gist.github.com/i3games/b063987dfb62baf5d0afda422631b480
+
+#### Update (2021) 
+Processing 4.0 beta1 runs the sketch, get the latest version of Processing here https://processing.org/download
