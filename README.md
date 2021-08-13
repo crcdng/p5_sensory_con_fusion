@@ -15,9 +15,9 @@ This is still a work in progress (first version made: May 3, 2017). The focus i
 
 This was presented during ["Multisensory Aesthetics"](https://bureaudoove.com/2017/04/24/mike-blow-multisensory-aesthetics-workshop-16th-may-2017/), a symposium organized by Dr. Mike Blow at the University of Plymouth in May 2017. A [presentation](Sensory_Con_Fusion_2017.pdf) is attached.
 
-I am also working on a VR version.
+I am still working on a VR version.
 
-To run, download the ZIP file, unpack and rename the folder to `p5_sensory_con_fusion`. Copy this folder into your Processing sketch folder. You might have to install the P5 Video and P5 Audio libraries from the Processing GUI (`Sketch -> Import Library -> Add Library`).
+Copy this folder into your Processing sketch folder. You might have to install the P5 Video and P5 Audio libraries from the Processing GUI (`Sketch -> Import Library -> Add Library`).
 
 Read the comments in the sketch files for details and current issues.
  
